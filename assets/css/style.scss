@@ -2,6 +2,7 @@
 ---
 
 @import "{{ pages-themes/slate@v0.2.0 }}";
+@import "custom.css";
 
 /* Base styling for a professional, clean look */
 body {
